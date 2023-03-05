@@ -1,4 +1,4 @@
-# Generator App with React
+# Generator App with React  <a href="https://amalshalabi.github.io/Color-Generator-App/" target="_blank">Demo</a>  
 
 This is a generator app which allows users to generate random values such as colors, hex codes, and numbers using the values.js package.
 
